@@ -18,10 +18,10 @@ export default function Home() {
       <Head>
         <title>React boiler code with tailwind css</title>
         {/* this app created from next js */}
-        <meta name="description" content="" /> 
+        <meta name="description" content="" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className=" ">
+      <main className="rotate-center ">
         <h2>hello world</h2>
       </main>
     </div>
